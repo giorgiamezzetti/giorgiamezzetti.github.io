@@ -1,2 +1,8 @@
-name: My Site
-theme: minima
+title: "Giorgia Mezzetti"
+description: "Dottoranda · Job Market 2025"
+remote_theme: yaoyao-liu/minimal-light
+
+color_scheme: dark
+
+plugins:
+  - jekyll-remote-theme
