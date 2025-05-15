@@ -17,4 +17,6 @@ header_pages:
 #  - index.md
   - research.md
 
+include:
+  - _includes/head-custom.html
 
