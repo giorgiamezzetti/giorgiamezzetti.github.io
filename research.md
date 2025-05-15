@@ -3,17 +3,17 @@ layout: page
 title: "Research & Teaching"
 ---
 
-## Research Interests
+### Research Interests
 
 - Social-science genetics
 - Labor and gender economics
 - Human capital, mental health, and inequality
 
-## Working Papers
+### Working Papers
 
 - **The Interaction of Genes and Gender Norms in Shaping Human Capital**  
 
-## Presentations
+### Presentations
 
 - **European Social Science Genetic Network (ESSGN) Conference**  
   Erasmus University Rotterdam – May 30–31, 2024
@@ -24,7 +24,7 @@ title: "Research & Teaching"
 - **Integrating Genetics and the Social Sciences Conference (IGSS)**  
   Stanford University – October 24–25, 2024
 
-## Teaching
+### Teaching
 
 - **Johns Hopkins University** — *International Economics I*, MA in International Affairs (2024)
 
