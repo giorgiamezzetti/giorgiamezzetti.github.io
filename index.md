@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""  
-heading: "Home"
+title: "Giorgia Mezzetti"  
 ---
 
 <meta name="google-site-verification" content="91tT5KmS8aLV4TBB9NyBphneEHymrwj9k6rPX0gBq2Q" />
