@@ -12,4 +12,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages: []
+# Navigation links
+header_pages:
+#  - index.md
+  - about.md
+  - research.md
+  - cv.md
+
