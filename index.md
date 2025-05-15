@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Giorgia Mezzetti"
+title: ""
 ---
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
