@@ -3,7 +3,7 @@ layout: page
 title: "Giorgia Mezzetti"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap; color: white;">
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap; color: black;">
 
   <div style="flex: 1; min-width: 250px;">
     <h2></h2>
