@@ -12,9 +12,3 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Navigation
-# header_pages:
-#  - index.md
-# - about.md
-#  - research.md
-#  - cv.md
