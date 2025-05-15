@@ -16,7 +16,7 @@ plugins:
 header_pages:
 #  - index.md
   - research.md
-icon: logo.jpg 
+  
 include:
   - _includes/head-custom.html
 
