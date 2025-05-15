@@ -12,3 +12,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages: []
