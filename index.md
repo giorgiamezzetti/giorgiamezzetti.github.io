@@ -21,7 +21,7 @@ title: "Giorgia Mezzetti"
   </div>
 
   </div>
-  <img src="intro.gif" width="250" style="border-radius: 20px;" />
+  <img src="tagc_talk_2024.gif" width="250" style="border-radius: 20px;" />
 </div>
 
 
