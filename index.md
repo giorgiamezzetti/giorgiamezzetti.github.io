@@ -6,17 +6,16 @@ title: "Giorgia Mezzetti"
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap; color: white;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h2>Giorgia Mezzetti</h2>
-
-    <p>
+    <h2></h2>
+     <p>
       I am a Ph.D. candidate in Economics at the University of Bologna. My research focuses on labor economics, gender economics, and social-science genetics.
     </p>
 
-    <p>
+   <p>
       I study how individual traits and social norms jointly shape human capital formation and labor market outcomes, with particular attention to gender disparities. I am especially interested in the role of genetic data in understanding inequality and the persistence of social gaps.
     </p>
 
-    <p>
+  <p>
       <a href="CV.pdf">Download my CV</a>
     </p>
   </div>
