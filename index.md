@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ""
+title: "Giorgia Mezzetti"
 ---
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <div>
-    <h2>Giorgia Mezzetti</h2>
+    <h2></h2>
     <p>PhD candidate in Economics at the University of Bologna.</p>
     <a href="CV.pdf">Download my CV</a>
   </div>
