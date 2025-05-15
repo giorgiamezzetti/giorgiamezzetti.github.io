@@ -3,6 +3,9 @@ layout: page
 title: "Giorgia Mezzetti"
 ---
 
+<meta name="google-site-verification" content="91tT5KmS8aLV4TBB9NyBphneEHymrwj9k6rPX0gBq2Q" />
+
+
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap; color: black;">
 
   <div style="flex: 1; min-width: 250px;">
