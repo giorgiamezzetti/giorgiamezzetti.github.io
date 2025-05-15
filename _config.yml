@@ -7,7 +7,7 @@ description: >-
 baseurl: "" 
 url: "https://giorgiamezzetti.github.io"
 
-theme: jekyll-theme-clean-blog
+theme: minima
 
 plugins:
   - jekyll-feed
