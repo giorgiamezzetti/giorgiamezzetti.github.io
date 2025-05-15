@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
 
 # Navigation
-header_pages:
+# header_pages:
 #  - index.md
 # - about.md
 #  - research.md
