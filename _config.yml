@@ -13,7 +13,7 @@ plugins:
 
 # Navigation links
 header_pages:
-  - index.md
+#  - index.md
   - about.md
   - research.md
   - cv.md
