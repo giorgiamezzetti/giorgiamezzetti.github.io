@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: ""         
+title: "Giorgia Mezzetti"         
 heading: "Home"   
 ---
 
