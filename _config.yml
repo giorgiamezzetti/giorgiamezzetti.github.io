@@ -8,6 +8,8 @@ baseurl: ""
 url: "https://giorgiamezzetti.github.io"
 
 theme: minima
+sass:
+  style: compressed
 
 plugins:
   - jekyll-feed
