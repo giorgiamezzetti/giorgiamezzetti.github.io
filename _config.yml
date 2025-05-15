@@ -14,7 +14,7 @@ plugins:
 
 # Navigation links
 header_pages:
-#  - index.md
+  - index.md
   - research.md
   
 include:
