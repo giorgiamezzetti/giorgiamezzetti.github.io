@@ -1,17 +1,18 @@
+
 title: Giorgia Mezzetti
 email: giorgia.mezzetti2@unibo.it
-description: >- 
- PhD candidate in Economics at University of Bologna
-baseurl: ""
+description: >-
+  PhD candidate in Economics at University of Bologna
+
+baseurl: "" 
 url: "https://giorgiamezzetti.github.io"
 
-theme: minima
+theme: jekyll-theme-clean-blog
 
-# Build settings
 plugins:
   - jekyll-feed
 
-# Navigation links
+# Navigation
 header_pages:
 #  - index.md
   - about.md
