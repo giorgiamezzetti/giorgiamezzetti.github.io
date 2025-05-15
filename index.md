@@ -2,9 +2,7 @@
 layout: page
 title: "Giorgia Mezzetti"
 ---
-<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 250px;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <div>
     <h2></h2>
@@ -18,10 +16,18 @@ title: "Giorgia Mezzetti"
       <a href="CV.pdf">Download my CV</a>
     </p>
   </div>
-
- <video width="200" autoplay loop muted playsinline style="border-radius: 20px;">
+  
+  <video width="200" autoplay loop muted playsinline style="border-radius: 20px;">
     <source src="tagc_talk_2024.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+
+
+
+
+
 </div>
