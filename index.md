@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Giorgia Mezzetti"  
+title: ""  
 heading: "Home"
 ---
 
