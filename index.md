@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Home"  
-heading: ""
+heading: "Giorgia Mezzetti"
 permalink: /index.html
 ---
 
@@ -11,7 +11,7 @@ permalink: /index.html
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap; color: black;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h2> Giorgia Mezzetti </h2>
+    <h2></h2>
      <p>
       I am a Ph.D. candidate in Economics at the University of Bologna. My research focuses on labor economics, gender economics, and social-science genetics.
     </p>
