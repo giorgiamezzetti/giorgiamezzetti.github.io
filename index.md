@@ -22,6 +22,7 @@ permalink: /index.html
 
 Currently a visiting researcher at New York University until March 2025.
 
+
   <p>
       <a href="CV.pdf">Download my CV</a>
     </p>
