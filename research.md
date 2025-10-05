@@ -22,7 +22,7 @@ title: "Research & Teaching"
   University of Wisconsin – Madison – June 5–7, 2024
 
 - **Integrating Genetics and the Social Sciences Conference (IGSS)**  
-  Stanford University – October 24–25, 2024
+  Stanford University – October 24–25, 2024  
   Stanford University – October 8-9, 2025
 
 ### Teaching
