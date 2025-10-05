@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Home"  
-heading: "Giorgia Mezzetti"
+heading: ""
 permalink: /index.html
 ---
 
