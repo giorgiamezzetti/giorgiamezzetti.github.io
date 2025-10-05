@@ -11,7 +11,7 @@ title: "Research & Teaching"
 
 ### Working Papers
 
-- **The Interaction of Genes and Gender Norms in Shaping Human Capital**  
+- **The Role of Gene-Environment Interactio in the Gender Wage Gap**  
 
 ### Presentations
 
@@ -23,6 +23,7 @@ title: "Research & Teaching"
 
 - **Integrating Genetics and the Social Sciences Conference (IGSS)**  
   Stanford University – October 24–25, 2024
+  Stanford University – October 8-9, 2025
 
 ### Teaching
 
