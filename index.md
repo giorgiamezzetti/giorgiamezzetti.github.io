@@ -19,11 +19,12 @@ permalink: /index.html
    <p>
       I study how individual traits and social norms jointly shape human capital formation and labor market outcomes, with particular attention to gender disparities. I am especially interested in the role of genetic data in understanding inequality and the persistence of social gaps.
     </p>
-
+  
+  <p>
 Currently a visiting researcher at New York University until March 2025.
 
 
-  <p>
+  </p>
       <a href="CV.pdf">Download my CV</a>
     </p>
 
