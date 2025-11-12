@@ -17,7 +17,7 @@ permalink: /index.html
     </p>
 
    <p>
-      I study how individual traits and social norms jointly shape human capital formation and labor market outcomes, with particular attention to gender disparities. I am especially interested in the role of genetic data in understanding inequality and the persistence of social gaps.
+      My research examines how nature and nurture jointly influence labor market outcomes, with a focus on gender disparities.
     </p>
   
   <p>
