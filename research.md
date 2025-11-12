@@ -5,7 +5,7 @@ title: "Research & Teaching"
 
 ### Research Interests
 
-- Social-science genetics
+- Social science genetics
 - Labor and gender economics
 - Human capital, mental health, and inequality
 
