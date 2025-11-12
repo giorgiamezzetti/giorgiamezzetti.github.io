@@ -11,7 +11,7 @@ title: "Research & Teaching"
 
 ### Working Papers
 
-- **The Role of Gene-Environment Interactio in the Gender Wage Gap**  
+- **The Role of Gene-Environment Interaction in the Gender Wage Gap**  
 
 ### Presentations
 
