@@ -16,14 +16,14 @@ title: "Research & Teaching"
 ### Presentations
 
 - **European Social Science Genetic Network (ESSGN) Conference**  
-  Erasmus University Rotterdam – May 30–31, 2024
+  Erasmus University Rotterdam – May 30 – 31, 2024
 
 - **The Advances in Social Genomics Conference (TAGC)**  
-  University of Wisconsin – Madison – June 5–7, 2024
+  University of Wisconsin – Madison – June 5 – 7, 2024
 
 - **Integrating Genetics and the Social Sciences Conference (IGSS)**  
-  Stanford University – October 24–25, 2024  
-  Stanford University – October 8-9, 2025
+  Stanford University – October 24 – 25, 2024  
+  Stanford University – October 8 – 9, 2025
 
 ### Teaching
 
