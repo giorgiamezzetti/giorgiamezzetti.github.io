@@ -11,7 +11,8 @@ title: "Research & Teaching"
 
 ### Working Papers
 
-- **The Role of Gene-Environment Interaction in the Gender Wage Gap**  
+- **The Role of Gene-Environment Interaction in the Gender Wage Gap**
+- **Genetic Heterogeneity and the Child Penalty Gap**
 
 ### Presentations
 
