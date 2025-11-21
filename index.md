@@ -17,7 +17,7 @@ permalink: /index.html
     </p>
 
    <p>
-      My research examines how nature and nurture jointly influence labor market outcomes, with a focus on gender disparities.
+      I examine how returns to skill differ between men and women across ages, cohorts, and historical periods, using genetic measures as a time-invariant indicator of long-run traits proxy for underlying ability.
     </p>
   
   <p>
