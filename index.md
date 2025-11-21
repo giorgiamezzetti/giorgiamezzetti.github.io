@@ -17,7 +17,7 @@ permalink: /index.html
     </p>
 
    <p>
-      I examine how returns to skill differ between men and women across ages, cohorts, and historical periods, using genetic measures as a time-invariant indicator of long-run traits proxy for underlying ability.
+      I examine how returns to skill differ between men and women across ages, cohorts, and historical periods, using genetic measures as a time-invariant indicator of individual characteristics.
     </p>
   
   <p>
