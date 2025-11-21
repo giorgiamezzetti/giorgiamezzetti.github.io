@@ -3,7 +3,7 @@ layout: default
 title: "Research & Teaching"
 ---
 
-#### **Working Papers**
+## **Working Papers**
 
 - **The Role of Gene-Environment Interaction in the Gender Wage Gap**
 
@@ -13,7 +13,7 @@ Abstract
 
 - **Genetic Heterogeneity and the Child Penalty Gap**
 
-#### **Presentations**
+## **Presentations**
 
 - European Social Science Genetic Network (ESSGN) Conference  
   *Erasmus University Rotterdam – May 30 – 31, 2024*
@@ -25,7 +25,7 @@ Abstract
   *Stanford University – October 24 – 25, 2024*  
   *Stanford University – October 8 – 9, 2025*
 
-#### **Teaching**
+## **Teaching**
 
 - Johns Hopkins University — *International Economics I*, MA in International Affairs (2024)
 
