@@ -13,8 +13,8 @@ Abstract
 \
 \
 ▸ **Genetic Heterogeneity and the Child Penalty Gap**  
-
-\
+  
+  
 ## **Presentations**
 
 ▸ European Social Science Genetic Network (ESSGN) Conference  
@@ -26,10 +26,10 @@ Abstract
 ▸ Integrating Genetics and the Social Sciences Conference (IGSS)  
   *Stanford University – October 24 – 25, 2024*  
   *Stanford University – October 8 – 9, 2025*  
-
-\
+  
+  
 ## **Teaching**  
-\
+
 ▸ Johns Hopkins University — *International Economics I*, MA in International Affairs (2024)
 
 ---
