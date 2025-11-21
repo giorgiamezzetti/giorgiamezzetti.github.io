@@ -13,7 +13,7 @@ Abstract
 \
 \
 ▸ **Genetic Heterogeneity and the Child Penalty Gap**  
-\
+
 \
 ## **Presentations**
 
@@ -26,7 +26,7 @@ Abstract
 ▸ Integrating Genetics and the Social Sciences Conference (IGSS)  
   *Stanford University – October 24 – 25, 2024*  
   *Stanford University – October 8 – 9, 2025*  
-\
+
 \
 ## **Teaching**  
 \
