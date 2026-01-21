@@ -21,7 +21,7 @@ permalink: /index.html
     </p>
   
   <p>
-Currently a visiting researcher at New York University until March 2025.
+Currently a visiting researcher at New York University until March 2026.
 
 
   </p>
