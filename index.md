@@ -20,11 +20,6 @@ permalink: /index.html
       I examine how returns to skill differ between men and women across ages, cohorts, and historical periods, using genetic measures as a time-invariant indicator of individual characteristics.
     </p>
   
-  <p>
-Currently a visiting researcher at New York University until March 2026.
-
-
-  </p>
 
   <p>
       <a href="CV.pdf">Download my CV</a>
