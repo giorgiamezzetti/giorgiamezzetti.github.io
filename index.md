@@ -21,9 +21,7 @@ permalink: /index.html
     </p>
   
 
-  <p>
-      <a href="CV.pdf">Download my CV</a>
-    </p>
+
 
   </div>
   <img src="tagc_talk_2024.gif" width="250" style="border-radius: 20px;" />
